@@ -5,7 +5,7 @@ Welcome to my GitHub repository for the CODSOFT Web Development Internship (25th
 🗂️ Projects Included
 📁 Folder: /Level 1 Task 1
 
-#🔹 Task 1. Personal Portfolio Website
+# 🔹 Task 1. Personal Portfolio Website
 A professional, futuristic portfolio website designed to highlight my skills, experience, and projects.
 
 Features:
@@ -20,7 +20,7 @@ Clean and modern layout
 
 📁 Folder: /Level 1 Task 2
 
-#🔹 Task 2. Landing Page
+# 🔹 Task 2. Landing Page
 A visually appealing and modern landing page to promote a fictional service or product.
 
 Features:
@@ -35,7 +35,7 @@ Focus on alignment, colors, and sections
 
 📁 Folder: /Level 1 Task 3
 
-#🔹 Task 3. Calculator Web App
+# 🔹 Task 3. Calculator Web App
 A simple and futuristic calculator built using HTML, CSS, and JavaScript.
 
 Features:
@@ -48,7 +48,7 @@ Interactive buttons and result display
 
 📁 Folder: /Level 3 Task 2
 
-🚀 Technologies Used
+# 🚀 Technologies Used
 HTML5
 
 CSS3
@@ -61,7 +61,7 @@ Node.js (for backend if implemented)
 
 Git & GitHub for version control
 
-📌 Internship Details
+# 📌 Internship Details
 Organization: CODSOFT
 
 Role: Web Development Intern
@@ -72,7 +72,7 @@ Mode: Virtual
 
 Hashtag: #VirtualInternship
 
-🚀 Live Demo
+# 🚀 Live Demo
 Portfolio
 
 Landing Page
@@ -82,10 +82,10 @@ Calculator web App
 📸 Screenshots
 Screenshots of each project are available inside their respective folders .
 
-🙌 Acknowledgements
+# 🙌 Acknowledgements
 Special thanks to CODSOFT for the opportunity and guidance throughout the internship. This experience helped me strengthen my web development fundamentals and apply them in practical projects.
 
-📬 Contact
+# 📬 Contact
 Sonu Kumar Ray [LinkedIn:- https://tinyurl.com/sonu-linkedin]
 
 ⭐ Feel free to explore the projects, clone the repository, and provide feedback. Thank you for visiting!
