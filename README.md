@@ -72,17 +72,6 @@ Mode: Virtual
 
 Hashtag: #VirtualInternship
 
-# 🚀 Live Demo
-
-portfolio
-http://127.0.0.1:5500/portfolio/index.html
-
-Landing Page
-http://127.0.0.1:5500/landing%20pg/index.html
-
-Calculator web App
-http://127.0.0.1:5500/calci/index.html
-
 📸 Screenshots
 Screenshots of each project are available inside their respective folders .
 
