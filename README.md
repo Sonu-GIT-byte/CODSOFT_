@@ -1,4 +1,5 @@
-##💻 CODSOFT Web Development Internship Projects
+#💻CODSOFT Web Development Internship Projects
+
 Welcome to my GitHub repository for the CODSOFT Web Development Internship (25th August 2025 – 25th september 2025). This repository includes all the web development projects I completed during the internship, aimed at strengthening my frontend development skills and showcasing my creativity in UI/UX.
 
 🗂️ Projects Included
