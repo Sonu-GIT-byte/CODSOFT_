@@ -3,9 +3,9 @@
 Welcome to my GitHub repository for the CODSOFT Web Development Internship (25th August 2025 – 25th september 2025). This repository includes all the web development projects I completed during the internship, aimed at strengthening my frontend development skills and showcasing my creativity in UI/UX.
 
 🗂️ Projects Included
-📁 Folder: /Level 1 Task 1
+# 📁 Folder: /Level 1 Task 1
 
-# 🔹 Task 1. Personal Portfolio Website
+🔹 Task 1. Personal Portfolio Website
 A professional, futuristic portfolio website designed to highlight my skills, experience, and projects.
 
 Features:
@@ -18,9 +18,9 @@ Skills and project showcases
 
 Clean and modern layout
 
-📁 Folder: /Level 1 Task 2
+# 📁 Folder: /Level 1 Task 2
 
-# 🔹 Task 2. Landing Page
+🔹 Task 2. Landing Page
 A visually appealing and modern landing page to promote a fictional service or product.
 
 Features:
@@ -33,9 +33,9 @@ Responsive design
 
 Focus on alignment, colors, and sections
 
-📁 Folder: /Level 1 Task 3
+# 📁 Folder: /Level 1 Task 3
 
-# 🔹 Task 3. Calculator Web App
+ 🔹 Task 3. Calculator Web App
 A simple and futuristic calculator built using HTML, CSS, and JavaScript.
 
 Features:
@@ -46,9 +46,9 @@ Responsive layout using CSS Grid
 
 Interactive buttons and result display
 
-📁 Folder: /Level 3 Task 2
+# 📁 Folder: /Level 3 Task 2
 
-# 🚀 Technologies Used
+ 🚀 Technologies Used
 HTML5
 
 CSS3
