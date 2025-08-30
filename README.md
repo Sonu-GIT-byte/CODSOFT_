@@ -79,6 +79,6 @@ Screenshots of each project are available inside their respective folders .
 Special thanks to CODSOFT for the opportunity and guidance throughout the internship. This experience helped me strengthen my web development fundamentals and apply them in practical projects.
 
 # 📬 Contact
-Sonu Kumar Ray [LinkedIn:- https://tinyurl.com/sonu-linkedin]
+Sonu Kumar Ray [LinkedIn:- https://www.linkedin.com/in/sonu-kumar-259325282/]
 
 ⭐ Feel free to explore the projects, clone the repository, and provide feedback. Thank you for visiting!
